@@ -1,13 +1,34 @@
+# Alexander Zahrer
+
+Welcome to my personal website! I am a [role/profession] with interests in [key interests/topics].
+
 ---
-title: "Alexander's Homepage"
-date: 2025-01-04
+
+## About Me
+
+I am passionate about [fields/interests] and have experience in [relevant experience]. My goal is to [describe your goals or aspirations].
+
 ---
-# Welcome to My Homepage
 
-I am a PhD student at the Karl Franzens University in Graz, supervised by both Martin Kalck and Eleonore Faber. I am part of the research group **Algebraic Structures and Geometry**.
+## Contact Me
 
-My main research interests revolve around:
-- **Higher Category Theory**
-- **Representation Theory**
-- **Functorial Field Theory**
+- Email: [your email]
+- LinkedIn: [your LinkedIn profile link]
+- GitHub: [your GitHub profile link]
 
+---
+
+## Projects
+
+### [Project 1 Name]
+Brief description of the project. You can view it [here](project link).
+
+### [Project 2 Name]
+Brief description of the project. You can view it [here](project link).
+
+---
+
+## Blog/Updates (Optional)
+
+- **[Date]:** [Short update or blog post title](link to blog or update)
+- **[Date]:** [Another update or blog post title](link to blog or update)
